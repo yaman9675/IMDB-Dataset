@@ -1,2 +1,2 @@
-# MDB-Dataset
+# IMDB-Dataset
 EDA on IMDB Dataset
